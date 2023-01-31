@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on ... javascript, typescript, nodejs, ruby -->
-- 🌱 I’m currently learning ... `Javascript/Typescript`, `Ruby`, `Java`
+- 🌱 I’m currently learning ... `Javascript/Typescript`, `Ruby` and `Python.`
 - 👯 I’m looking to collaborate on ...
   - `Problem solving and coding interview preparation.`
   - `Data Structures & Algorithms`
@@ -13,7 +13,7 @@
   'Getting hired as a software developer or engineer.',
   'Some brainstroming ideas to real life solutions.'
 ]`
-- 💬 Ask me about ... `JS/TS`, `Java` or `Ruby`, `HTML/CSS`, `Linux (Ubuntu)`
+- 💬 Ask me about ... `JS/TS`, `Ruby`, `HTML/CSS`, `Linux (Ubuntu)`
 - 📫 How to reach me: ... `[{
   WhatsApp: '(+880) 131 105 2448',
   Instagram: { username: '7_mahabub' },

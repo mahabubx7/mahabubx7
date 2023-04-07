@@ -1,16 +1,25 @@
 ### Hi there 👋
 
+**I'm Mahabub.**
+&nbsp;A Full-Stack Software Engineer. I believe that we can change the world through the power of technology. And I want to be a part of these revolution.
+<hr>
+
 <!-- - 🔭 I’m currently working on ... javascript, typescript, nodejs, ruby -->
 - 🌱 I’m currently learning ... `Javascript/Typescript`, `Ruby` and `Python.`
-- 👯 I’m looking to collaborate on ... `software-development` and `cloud-computing`.
+- 👯 I’m looking to collaborate on ... `software-development` and so on.
 
-- 🤔 I’m looking for help with ... `preparing for technical interviews`
-- 💬 Ask me about ... `JavaScript/TypeScript`, `Linux (Ubuntu)`.
+- 🤔 I’m looking for help with ... getting hired for my next job. 
+- 💬 Ask me about ... `JS/TS`, `API-development`, `Computer-science`, `Linux (Ubuntu)`, etc.
 - 📫 How to reach me: ... Whatsapp `+(880) 131-105-2448`, Linkedin `/in/mahabubx7`.
 - 😄 Pronouns: ... He, His.
-- ⚡ Fun fact: ... I `wish to travel`, `love remote or WFH (work from home)`, `eSports lover & eFootball (Mobile) player`
-### \# Available for Hire
-##### \# Right now :=> *Student* at `Microverse`.
+- ⚡ Fun fact: ... I ...
+  - wish to travel around the world.
+  - want to do remote/WFH job.
+  - love playing eSports (eFootball) games.
+  - would love to participate in open-source projects (if it's relevant).
+  - want to work in some cutting-edge techs in near future.
+### ✔️ Available for Hire
+##### \# Right now :=> 👨‍🎓 *Student* at `Microverse`.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahabubx7&label=Profile%20views&color=0e75b6&style=flat" alt="mahabubx7" /> </p>
 <!-- 

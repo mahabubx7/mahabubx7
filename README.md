@@ -39,7 +39,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahabubx7" alt="mahabubx7" /></a>
 </p>
 
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -62,11 +61,13 @@
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 </p> 
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahabubx7&show_icons=true&locale=en&layout=compact" alt="mahabubx7" /></p>
+<div align="center">
+  <img width="500" align="left" src="https://leetcard.jacoblin.cool/mahabubx7" alt="mahabubx7" />
+  <img width="500" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahabubx7&show_icons=true&locale=en&layout=compact" alt="mahabubx7" />
+</div>
 
 <p align="center">
-  <img align="center" width="49.9%" src="https://github-readme-stats.vercel.app/api?username=mahabubx7&show_icons=true&locale=en" alt="mahabubx7" />
-  <img align="center" width="49.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabubx7&" alt="mahabubx7" />
+  <img align="left" width="49.9%" src="https://github-readme-stats.vercel.app/api?username=mahabubx7&show_icons=true&locale=en" alt="mahabubx7" />
+  <img align="right" width="49.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabubx7&" alt="mahabubx7" />
 </p>
 

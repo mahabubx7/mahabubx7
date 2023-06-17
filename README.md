@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **I'm Mahabub.**
-&nbsp;A Full-Stack Software Engineer. I believe that we can change the world through the power of technology. And I want to be a part of these revolution.
+&nbsp;A Full-Stack Software Developer. I believe that we can change the world through the power of technology. And I want to be a part of these revolution.
 <hr>
 
 <!-- - 🔭 I’m currently working on ... javascript, typescript, nodejs, ruby -->

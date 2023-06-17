@@ -34,9 +34,11 @@
 <a href="https://discord.gg/mahabubx7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="F4NDGZQd" height="30" width="40" /></a>
 </p> -->
 
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahabubx7" alt="mahabubx7" /></a>
 </p>
+-->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">

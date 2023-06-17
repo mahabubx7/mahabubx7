@@ -11,7 +11,6 @@
 - 🤔 I’m looking for help with ... getting hired for my next job. 
 - 💬 Ask me about ... `JS/TS`, `API-development`, `Computer-science`, `Linux (Ubuntu)`, etc.
 - 📫 How to reach me: ... Whatsapp `+(880) 131-105-2448`, Linkedin `/in/mahabubx7`.
-- 😄 Pronouns: ... He, His.
 - ⚡ Fun fact: ... I ...
   - wish to travel around the world.
   - want to do remote/WFH job.

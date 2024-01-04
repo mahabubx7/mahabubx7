@@ -1,74 +1,126 @@
 ### Hi there 👋
 
 **I'm Mahabub.**
-&nbsp;A Full-Stack Software Developer. I believe that we can change the world through the power of technology. And I want to be a part of these revolution.
+&nbsp;A Developer with dreams. I believe that we can change the world for good through the power of technology. And I want to be a part of these revolution.
 <hr>
 
-<!-- - 🔭 I’m currently working on ... javascript, typescript, nodejs, ruby -->
-- 🌱 I’m currently learning ... `Javascript/Typescript`, `Ruby` and `Python.`
-- 👯 I’m looking to collaborate on ... `software-development` and so on.
+#### ✅ Available for Hire
 
-- 🤔 I’m looking for help with ... getting hired for my next job. 
-- 💬 Ask me about ... `JS/TS`, `API-development`, `Computer-science`, `Linux (Ubuntu)`, etc.
-- 📫 How to reach me: ... Whatsapp `+(880) 131-105-2448`, Linkedin `/in/mahabubx7`.
+- 🔭 I’m currently working on ... node.js (TS), npm-packages, backend-APIs
+- 🌱 I’m currently learning ... `Node package development`, `Database (SQL/NoSQL/CQL)`, etc.
+- 👯 I’m looking to collaborate on ... `OpenSource: library/packages`, `An idea to work on with my interest!` and so on.
+
+- 🤔 I’m looking for help with ... getting hired for a full-time job (preferably REMOTE). 
+- 💬 Ask me about ... `JS/TS`, `API-development`, `Data Structure`, `Database Design`, `Linux (Ubuntu)`, `Networking & Wireless`, etc.
+- 📫 How to reach me: ... Whatsapp `+(880) 1311 052448`, Linkedin `/in/mahabubx7`.
 - ⚡ Fun fact: ... I ...
-  - wish to travel around the world.
-  - want to do remote/WFH job.
-  - love playing eSports (eFootball) games.
-  - would love to participate in open-source projects (if it's relevant).
-  - want to work in some cutting-edge techs in near future.
-### ✔️ Available for Hire
-##### \# Right now :=> 👨‍🎓 *Student* at `Microverse`.
+  - would love to travel
+  - enjoy to do the real-world solutions to code
+  - am mad about infustructures, cloud, self-hosting/homelab, IoT, etc.
+ 
+
+<a target="__blank" href="https://mahabubx7.vercel.app/">
+  <img alt="!" src="https://img.shields.io/badge/Vist%20My%20Website%20-%27E34F27.svg?style=for-the-badge&logoColor=white" />
+</a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahabubx7&label=Profile%20views&color=0e75b6&style=flat" alt="mahabubx7" /> </p>
-<!-- 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/mahabubx7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="nikhilg20623896" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mahabubx7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15974298" height="30" width="40" /></a>
-<a href="https://fb.com/mahabubx7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="co.nikhil.garg" height="30" width="40" /></a>
-<a href="https://instagram.com/mahabubx7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__nikhil_garg__" height="30" width="40" /></a>
-<a href="https://medium.com/mahabubx7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="@nikhilgarg983" height="30" width="40" /></a>
-<a href="https://youtube.com/@mahabubx7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="nikhil garg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mahabubx7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="nikhilgargcoder" height="30" width="40" /></a>
-<a href="https://discord.gg/mahabubx7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="F4NDGZQd" height="30" width="40" /></a>
-</p> -->
 
-<!--
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahabubx7" alt="mahabubx7" /></a>
+
+    
+- **Front-End Development**:
+
+   ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![SCSS](https://img.shields.io/badge/scss-%23BF4080.svg?style=for-the-badge&logo=sass&logoColor=white)
+   ![TailwindCSS](https://img.shields.io/badge/tailwind&nbsp;css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <br />
+   ![Vite](https://img.shields.io/badge/vite-%23EDEDED.svg?style=for-the-badge&logo=vite&logoColor=blue)
+   ![React](https://img.shields.io/badge/react-%23333333.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![Redux/RTK](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+   ![Solidjs](https://img.shields.io/badge/solid%20js-%232C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white)
+   
+   
+
+- **Back-End Development**:
+	
+   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+   ![Adonis JS](https://img.shields.io/badge/Adonis%20JS-%23003366.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
+   ![JWT](https://img.shields.io/badge/JWT-%23E0234E?style=for-the-badge&logo=JSON%20web%20tokens)
+   <br />
+   ![Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
+   ![Nestjs](https://img.shields.io/badge/nest%20js-%23E0234E.svg?style=for-the-badge&logo=nestjs)
+	
+	
+- **Database**:
+
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23A41E11.svg?style=for-the-badge&logo=redis&logoColor=white)
+	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Neo4j](https://img.shields.io/badge/neo4j-%23FDFDFD.svg?style=for-the-badge&logo=neo4j&logoColor=dark)
+ 
+	
+- **Tools & Others**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%236DB33F.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Linux](https://img.shields.io/badge/linux-%23DD4814.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <br />
+    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+    ![Notion](https://img.shields.io/badge/notion-%23DFDFDF.svg?style=for-the-badge&logo=notion&logoColor=black)
+
+- **Programming Languages**:
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-%234584B6.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
+<!-- - **Project Management**: -->
+	
+- **Extras**:
+	
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+      
 </p>
--->
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://ruby-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
-  <a href="https://rspec.info" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rspec/rspec-original.svg" alt="rspec" width="40" height="40"/> </a> 
-<a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://expo.dev/" target="_blank"> <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" alt="expo" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-</p> 
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<p left="center">
+<a href="https://www.linkedin.com/in/mahabubx7/" target="__blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
 
-<div align="center">
-  <img width="500" align="left" src="https://leetcard.jacoblin.cool/mahabubx7" alt="mahabubx7" />
-  <img width="500" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahabubx7&show_icons=true&locale=en&layout=compact" alt="mahabubx7" />
-</div>
+  <a href="https://wa.me/8801311052448" target="__blank">
+  <img src="https://img.shields.io/badge/whatsapp-%23075E54.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height=25>
+</a> 
+<!-- <a href="https://www.facebook.com/mahabub6333">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a> -->
 
-<p align="center">
-  <img align="left" width="49.9%" src="https://github-readme-stats.vercel.app/api?username=mahabubx7&show_icons=true&locale=en" alt="mahabubx7" />
-  <img align="right" width="49.9%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabubx7&" alt="mahabubx7" />
+<a href="mailto:mahabubx7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
 </p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+| <a href="https://github.com/mahabubx7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahabubx7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mahabub's github stats" /></a> | <a href="https://github.com/mahabubx7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubx7&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Leetcode Stats </b>
+<br>
+
+![](https://leetcard.jacoblin.cool/mahabubx7?theme=light)
+
+
+<br/>
 

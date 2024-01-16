@@ -4,24 +4,22 @@
 &nbsp;A Developer with dreams. I believe that we can change the world for good through the power of technology. And I want to be a part of these revolution.
 <hr>
 
-#### ✅ Available for Hire
+## ✅ Available for Hire
 
-- 🔭 I’m currently working on ... node.js (TS), npm-packages, backend-APIs
-- 🌱 I’m currently learning ... `Node package development`, `Database (SQL/NoSQL/CQL)`, etc.
-- 👯 I’m looking to collaborate on ... `OpenSource: library/packages`, `An idea to work on with my interest!` and so on.
+- 🔭 I’m currently working on ... `GraphQL`, `Backend-APIs`, `Personal Projects` ...
+- 🌱 I’m currently learning ... `Scalable Backend Development`, `Database & System Design`, `GitOps/Portainer/PaaS`, etc.
+- 👯 I’m looking to collaborate on ... `OpenSource: (npm) library/packages/etc.`, `An Idea To Code!` and so on.
 
-- 🤔 I’m looking for help with ... getting hired for a full-time job (preferably REMOTE). 
-- 💬 Ask me about ... `JS/TS`, `API-development`, `Data Structure`, `Database Design`, `Linux (Ubuntu)`, `Networking & Wireless`, etc.
+- 🤔 I’m looking for help with ... landing a full-time job (preferably REMOTE). 
+- 💬 Ask me about ... `JS/TS`, `APIs`, `Data Structure`, `Database`, `Linux (Ubuntu)`, etc.
 - 📫 How to reach me: ... Whatsapp `+(880) 1311 052448`, Linkedin `/in/mahabubx7`.
 - ⚡ Fun fact: ... I ...
   - would love to travel
-  - enjoy to do the real-world solutions to code
-  - am mad about infustructures, cloud, self-hosting/homelab, IoT, etc.
+  - enjoy to do the real-world solutions into code
+  - am mad about infustructures, cloud, self-hosting/homelab, IoT, large-scale-design, etc.
  
 
-<a target="__blank" href="https://mahabubx7.vercel.app/">
-  <img alt="!" src="https://img.shields.io/badge/Vist%20My%20Website%20-%27E34F27.svg?style=for-the-badge&logoColor=white" />
-</a>
+<a target="__blank" href="https://mahabubx7.vercel.app/"><img alt="!" src="https://img.shields.io/badge/Vist%20My%20Website%20-%27E34F27.svg?style=for-the-badge&logoColor=white" /></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahabubx7&label=Profile%20views&color=0e75b6&style=flat" alt="mahabubx7" /> </p>
 
@@ -49,19 +47,28 @@
 	
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+   ![Fastify](https://img.shields.io/badge/fastify-%231F1F1F.svg?style=for-the-badge&logo=fastify)
    ![Adonis JS](https://img.shields.io/badge/Adonis%20JS-%23003366.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
-   ![JWT](https://img.shields.io/badge/JWT-%23E0234E?style=for-the-badge&logo=JSON%20web%20tokens)
    <br />
-   ![Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
+   ![JWT](https://img.shields.io/badge/JWT-%23E0234E?style=for-the-badge&logo=JSON%20web%20tokens)
    ![Nestjs](https://img.shields.io/badge/nest%20js-%23E0234E.svg?style=for-the-badge&logo=nestjs)
+   ![Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
+   
 	
 	
 - **Database**:
 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23A41E11.svg?style=for-the-badge&logo=redis&logoColor=white)
-	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Neo4j](https://img.shields.io/badge/neo4j-%23FDFDFD.svg?style=for-the-badge&logo=neo4j&logoColor=dark)
+
+- **Programming Languages**:
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-%234584B6.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white)
  
 	
 - **Tools & Others**:
@@ -71,16 +78,6 @@
     ![Linux](https://img.shields.io/badge/linux-%23DD4814.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![Docker](https://img.shields.io/badge/docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  <br />
-    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-    ![Notion](https://img.shields.io/badge/notion-%23DFDFDF.svg?style=for-the-badge&logo=notion&logoColor=black)
-
-- **Programming Languages**:
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-%234584B6.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 <!-- - **Project Management**: -->
 	
@@ -89,6 +86,9 @@
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  <br />
+    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+    ![Notion](https://img.shields.io/badge/notion-%23DFDFDF.svg?style=for-the-badge&logo=notion&logoColor=black)
       
 </p>
 
@@ -113,7 +113,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-| <a href="https://github.com/mahabubx7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahabubx7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mahabub's github stats" /></a> | <a href="https://github.com/mahabubx7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubx7&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/mahabubx7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahabubx7&show_icons=true&theme=buefy&hide_border=true&show=prs_merged,reviews" alt="Mahabub's github stats" /></a> | <a href="https://github.com/mahabubx7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubx7&theme=buefy&layout=donut&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Leetcode Stats </b>

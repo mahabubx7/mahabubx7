@@ -1,22 +1,22 @@
 ### Hi there 👋
 
 **I'm Mahabub.**
-&nbsp;A Developer with dreams. I believe that we can change the world for good through the power of technology. And I want to be a part of these revolution.
+&nbsp;A Developer with dreams. Learning, practicing, and evolving day by day. Keeping my dreams one step closer everyday.
 <hr>
 
 ## ✅ Available for Hire
 
 - 🔭 I’m currently working on ... `GraphQL`, `Backend-APIs`, `Personal Projects` ...
-- 🌱 I’m currently learning ... `Scalable Backend Development`, `Database & System Design`, `GitOps/Portainer/PaaS`, etc.
-- 👯 I’m looking to collaborate on ... `OpenSource: (npm) library/packages/etc.`, `An Idea To Code!` and so on.
+- 🌱 I’m currently learning ... `Scalable Backend Design`, `Database & its improvements`, `GitOps/Portainer/PaaS`, etc.
+- 👯 I’m looking to collaborate on ... `OpenSource: library/packages/etc.`, `An Idea To Code!` and so on.
 
-- 🤔 I’m looking for help with ... landing a full-time job (preferably REMOTE). 
-- 💬 Ask me about ... `JS/TS`, `APIs`, `Data Structure`, `Database`, `Linux (Ubuntu)`, etc.
+- 🤔 I’m looking for help ... to land a full-time job (preferably REMOTE). 
+- 💬 Ask me about ... `TS/Js`, `APIs`, `DSA`, `Database`, `Linux (Ubuntu)`, etc.
 - 📫 How to reach me: ... Whatsapp `+(880) 1311 052448`, Linkedin `/in/mahabubx7`.
 - ⚡ Fun fact: ... I ...
-  - would love to travel
-  - enjoy to do the real-world solutions into code
+  - enjoy to make the real-world solutions into code
   - am mad about infustructures, cloud, self-hosting/homelab, IoT, large-scale-design, etc.
+  - wish to travel a lot
  
 
 <a target="__blank" href="https://mahabubx7.vercel.app/"><img alt="!" src="https://img.shields.io/badge/Vist%20My%20Website%20-%27E34F27.svg?style=for-the-badge&logoColor=white" /></a>
@@ -50,7 +50,6 @@
    ![Fastify](https://img.shields.io/badge/fastify-%231F1F1F.svg?style=for-the-badge&logo=fastify)
    ![Adonis JS](https://img.shields.io/badge/Adonis%20JS-%23003366.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
    <br />
-   ![JWT](https://img.shields.io/badge/JWT-%23E0234E?style=for-the-badge&logo=JSON%20web%20tokens)
    ![Nestjs](https://img.shields.io/badge/nest%20js-%23E0234E.svg?style=for-the-badge&logo=nestjs)
    ![Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
    
@@ -75,21 +74,27 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%236DB33F.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Linux](https://img.shields.io/badge/linux-%23DD4814.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Docker](https://img.shields.io/badge/docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![GraphQL](https://img.shields.io/badge/graphql-%23E535AB.svg?style=for-the-badge&logo=graphql&logoColor=white)
+    ![JWT](https://img.shields.io/badge/JWT-%23E0234E?style=for-the-badge&logo=JSON%20web%20tokens)
+    ![Bash](https://img.shields.io/badge/bash-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    <br />
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Linux](https://img.shields.io/badge/linux-%23DD4814.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-%231D91B4.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Portainer](https://img.shields.io/badge/portainer-%2313BEF9.svg?style=for-the-badge&logo=portainer&logoColor=white)
 
 <!-- - **Project Management**: -->
 	
 - **Extras**:
 	
     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![EsLint](https://img.shields.io/badge/eslint-%238080F2.svg?style=for-the-badge&logo=eslint&logoColor=white)
+    ![Prettier](https://img.shields.io/badge/prettier-%2356B3B4.svg?style=for-the-badge&logo=prettier&logoColor=white)
   <br />
-    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+    ![ClickUp](https://img.shields.io/badge/Click%20Up-%237B68EE.svg?style=for-the-badge&logo=Clickup&logoColor=white)
     ![Notion](https://img.shields.io/badge/notion-%23DFDFDF.svg?style=for-the-badge&logo=notion&logoColor=black)
-      
+    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 </p>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">

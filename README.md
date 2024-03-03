@@ -4,10 +4,10 @@
 &nbsp;A dreamer with dreams. Learning, practicing, and evolving day by day. Keeping my dreams one step closer everyday.
 <hr>
 
-<h3>⌘ Associate Software Engineer (<smal>upcoming</smal>)</h3>
+<h3>⌘ Full-Stack Developer</h3>
 
 - 🔭 I’m currently associated with EU's #1 Bootcamp by `CodeWorks` at Project-Code, Bangladesh.
-- 🌱 I’m currently learning ... `JavaScript/jQuery`, `TypeScript`, `Team Collabration`, `Angular`, & `Node.js/Nest.js`.
+- 🌱 I’m currently learning ... `Software Engineering`, `TypeScript`, `Team Collabration`, `Angular`, & `Node.js/Nest.js`.
 - 👯 I’m looking to collaborate on ... `OpenSource: library/packages/etc.`, `An Idea To Code!`, `Pair Programming`, and so on.
 
 <!-- - 🤔 I’m looking for help ... to make -->
@@ -93,7 +93,6 @@
     ![EsLint](https://img.shields.io/badge/eslint-%238080F2.svg?style=for-the-badge&logo=eslint&logoColor=white)
     ![Prettier](https://img.shields.io/badge/prettier-%2356B3B4.svg?style=for-the-badge&logo=prettier&logoColor=white)
   <br />
-    ![ClickUp](https://img.shields.io/badge/Click%20Up-%237B68EE.svg?style=for-the-badge&logo=Clickup&logoColor=white)
     ![Notion](https://img.shields.io/badge/notion-%23DFDFDF.svg?style=for-the-badge&logo=notion&logoColor=black)
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 </p>

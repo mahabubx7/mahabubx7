@@ -6,7 +6,7 @@
 
 <h3>⌘ Full-Stack Developer</h3>
 
-- 🔭 I’m currently associated with EU's #1 Bootcamp by `CodeWorks` at Project-Code, Bangladesh.
+<!-- - 🔭 I’m currently associated with EU's #1 Bootcamp by `CodeWorks` at Project-Code, Bangladesh. -->
 - 🌱 I’m currently learning ... `Software Engineering`, `TypeScript`, `Team Collabration`, `Angular`, & `Node.js/Nest.js`.
 - 👯 I’m looking to collaborate on ... `OpenSource: library/packages/etc.`, `An Idea To Code!`, `Pair Programming`, and so on.
 

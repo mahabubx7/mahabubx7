@@ -24,6 +24,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahabubx7&label=Profile%20views&color=0e75b6&style=flat" alt="mahabubx7" /> </p>
 
+<a href="https://gitroll.io/profile/ulntZbCcbLseOJgk1LOWUEeVWUIe2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ulntZbCcbLseOJgk1LOWUEeVWUIe2" alt="GitRoll Profile Badge"/></a>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 

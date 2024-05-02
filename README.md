@@ -4,11 +4,11 @@
 &nbsp;A dreamer with dreams. Learning, practicing, and evolving day by day. Keeping my dreams one step closer everyday.
 <hr>
 
-<h3>⌘ Full-Stack Developer</h3>
+<h3>⌘ Full-Stack Node.js Developer</h3>
 
 <!-- - 🔭 I’m currently associated with EU's #1 Bootcamp by `CodeWorks` at Project-Code, Bangladesh. -->
 - 🌱 I’m currently learning ... `Software Engineering`, `TypeScript`, `Team Collabration`, `Angular`, & `Node.js/Nest.js`.
-- 👯 I’m looking to collaborate on ... `OpenSource: library/packages/etc.`, `An Idea To Code!`, `Pair Programming`, and so on.
+- 👯 I’m looking to collaborate on ... `OpenSource: library/packages/etc.`, `An Idea To Code!`, `Product Development`, and so on.
 
 <!-- - 🤔 I’m looking for help ... to make -->
 - 💬 Ask me about ... `HTML/CSS`, `Backend APIs`, `Core DSA`, `Database`, `Linux (Ubuntu)`, etc.
@@ -16,8 +16,9 @@
 - ⚡ Fun fact: ... I ...
   - enjoy to make the real-world solutions into code
   - am mad about infustructures, cloud, self-hosting/homelab, IoT, large-scale-design, etc.
-  - got my personality test from codecademy that says I'm a `Problem Solver` at first.
-  - wish to travel a lot
+  <!-- - got my personality test from codecademy that says I'm a `Problem Solver` at first. -->
+  - wish to travel a lot if possible
+  - loves to work remotely i.e. WFH
  
 
 <a target="__blank" href="https://mahabubx7.vercel.app/"><img alt="!" src="https://img.shields.io/badge/Vist%20My%20Website%20-%27E34F27.svg?style=for-the-badge&logoColor=white" /></a>
@@ -50,11 +51,11 @@
 	
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-   ![Nestjs](https://img.shields.io/badge/nest%20js-%23E0234E.svg?style=for-the-badge&logo=nestjs)
    <br />
-   ![Fastify](https://img.shields.io/badge/fastify-%231F1F1F.svg?style=for-the-badge&logo=fastify)
+   ![Nestjs](https://img.shields.io/badge/nest%20js-%23E0234E.svg?style=for-the-badge&logo=nestjs)
+   <!-- ![Fastify](https://img.shields.io/badge/fastify-%231F1F1F.svg?style=for-the-badge&logo=fastify) -->
    ![Adonis JS](https://img.shields.io/badge/Adonis%20JS-%23003366.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
-   ![Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
+   <!-- ![Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white) -->
    
 	
 	
@@ -70,7 +71,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/python-%234584B6.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  <!-- ![Ruby](https://img.shields.io/badge/ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white) -->
  
 	
 - **Tools & Others**:
@@ -95,8 +96,8 @@
     ![EsLint](https://img.shields.io/badge/eslint-%238080F2.svg?style=for-the-badge&logo=eslint&logoColor=white)
     ![Prettier](https://img.shields.io/badge/prettier-%2356B3B4.svg?style=for-the-badge&logo=prettier&logoColor=white)
   <br />
-    ![Notion](https://img.shields.io/badge/notion-%23DFDFDF.svg?style=for-the-badge&logo=notion&logoColor=black)
-    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+    <!-- ![Notion](https://img.shields.io/badge/notion-%23DFDFDF.svg?style=for-the-badge&logo=notion&logoColor=black) -->
+    <!-- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) -->
 </p>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">

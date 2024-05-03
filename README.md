@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently associated with EU's #1 Bootcamp by `CodeWorks` at Project-Code, Bangladesh. -->
 - 🌱 I’m currently learning ... `Software Engineering`, `TypeScript`, `Team Collabration`, `Angular`, & `Node.js/Nest.js`.
-- 👯 I’m looking to collaborate on ... `OpenSource: library/packages/etc.`, `An Idea To Code!`, `Product Development`, and so on.
+- 👯 I’m looking to collaborate on ... `OpenSource: library/packages/etc.`, `An Idea To Code!`, and so on.
 
 <!-- - 🤔 I’m looking for help ... to make -->
 - 💬 Ask me about ... `HTML/CSS`, `Backend APIs`, `Core DSA`, `Database`, `Linux (Ubuntu)`, etc.
@@ -51,10 +51,9 @@
 	
    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-   <br />
    ![Nestjs](https://img.shields.io/badge/nest%20js-%23E0234E.svg?style=for-the-badge&logo=nestjs)
    <!-- ![Fastify](https://img.shields.io/badge/fastify-%231F1F1F.svg?style=for-the-badge&logo=fastify) -->
-   ![Adonis JS](https://img.shields.io/badge/Adonis%20JS-%23003366.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
+   <!-- ![Adonis JS](https://img.shields.io/badge/Adonis%20JS-%23003366.svg?style=for-the-badge&logo=adonisjs&logoColor=white) -->
    <!-- ![Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white) -->
    
 	
@@ -113,7 +112,7 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a> -->
 
-<a href="mailto:mahabubx7@gmail.com">
+<a href="mailto:iosmahabub@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>

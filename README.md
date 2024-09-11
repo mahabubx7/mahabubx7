@@ -1,31 +1,26 @@
 ### Hi there 👋
 
-**I'm Mahabub.**
-&nbsp;A dreamer with dreams. Learning, practicing, and evolving day by day. Keeping my dreams one step closer everyday.
+Myself **Mahabub.**
+&nbsp;A self-taught full-stack web/software developer and tech enthusiast. Always try to do my best and keep my space as well. 
 <hr>
 
-<h3>⌘ Full-Stack Node.js Developer</h3>
+<h3>⌘ Full-Stack Developer (Node.js / TS)</h3>
 
-<!-- - 🔭 I’m currently associated with EU's #1 Bootcamp by `CodeWorks` at Project-Code, Bangladesh. -->
-- 🌱 I’m currently learning ... `Software Engineering`, `TypeScript`, `Team Collabration`, `Angular`, & `Node.js/Nest.js`.
-- 👯 I’m looking to collaborate on ... `OpenSource: library/packages/etc.`, `An Idea To Code!`, and so on.
+- 🌱 I’m currently learning ... `Team Collabration`, `CI/CD`, & `GitOps/VPS/etc.`.
+- 👯 I’m looking to collaborate on ... `OpenSource: library/packages/etc.`, `An Idea To Code! or Startup from scratch`, and so on.
 
 <!-- - 🤔 I’m looking for help ... to make -->
-- 💬 Ask me about ... `HTML/CSS`, `Backend APIs`, `Core DSA`, `Database`, `Linux (Ubuntu)`, etc.
+- 💬 Ask me about ... `HTML/CSS`, `React`, `API Development`, `Core DSA`, `Databases`, etc.
 - 📫 How to reach me: ... Whatsapp `+(880) 1311 052448`, Linkedin `/in/mahabubx7`.
-- ⚡ Fun fact: ... I ...
-  - enjoy to make the real-world solutions into code
-  - am mad about infustructures, cloud, self-hosting/homelab, IoT, large-scale-design, etc.
-  <!-- - got my personality test from codecademy that says I'm a `Problem Solver` at first. -->
-  - wish to travel a lot if possible
-  - loves to work remotely i.e. WFH
  
 
 <a target="__blank" href="https://mahabubx7.vercel.app/"><img alt="!" src="https://img.shields.io/badge/Vist%20My%20Website%20-%27E34F27.svg?style=for-the-badge&logoColor=white" /></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahabubx7&label=Profile%20views&color=0e75b6&style=flat" alt="mahabubx7" /> </p>
 
+<!--
 <a href="https://gitroll.io/profile/ulntZbCcbLseOJgk1LOWUEeVWUIe2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ulntZbCcbLseOJgk1LOWUEeVWUIe2" alt="GitRoll Profile Badge"/></a>
+-->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
